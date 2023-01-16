@@ -77,7 +77,7 @@ All the data got stored in and called from <b>Railway App</b>.
 <p>Log In page</p>
 <img src="https://miro.medium.com/max/1100/1*RoiU58wQs8QAW_x0pTfgGw.webp"/>
 
-<pSign Up page</p>
+<p>Sign Up page</p>
 <img src="https://miro.medium.com/max/1100/1*Qsypy5nl3JBvuXGccasXRQ.webp"/>
   
 ## Please do check out our E-Mart-Store!
