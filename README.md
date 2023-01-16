@@ -69,7 +69,7 @@ All the data got stored in and called from <b>Railway App</b>.
 <img src="https://miro.medium.com/max/1100/1*m42RjYFG1anzzP2g2jY0PQ.webp"/>
 
 <p>Search functionality</p>
-<img src="![image](https://user-images.githubusercontent.com/96098283/212618312-52162bb8-aa3e-4a32-a694-01acce0d15ae.png)"/>
+<img src="https://miro.medium.com/max/1100/1*Ju-3aVKfKewtennqsMkLww.webp"/>
 
 <p>The cart page</p>
 <img src="https://miro.medium.com/max/1100/1*77g6ZdS6hXfoGqAm4pbLAw.webp"/>
