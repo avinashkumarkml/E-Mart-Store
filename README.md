@@ -1,7 +1,7 @@
 <h1 align="center"> E-Mart-Store
  <h1/>  
 
-<h3>Flathheads clone is an e-commerce plateform where users may purchase various types of sneaakers.This is solo project and fully Responsive.
+<h3>The goal of this project was to create a responsive E-commerce web application where the customer can buy a product.
 
 </h3>
 
@@ -10,7 +10,7 @@
 <h3 align="center" > Want to see live preview >><h3>
 <p align="center">
 <br />
-<a target="blank" href="https://eshoppers-three.vercel.app/">Deployed Link</a>
+<a target="blank" href="https://emartstore.vercel.app/">Deployed Link</a>
 </p>
 
 <br />
@@ -20,7 +20,7 @@
 Clone the project
 
 ```
-git clone https://github.com/avinashkumarkml/E-Shoppers.git
+git clone https://github.com/avinashkumarkml/E-Mart-Store.git
 ```
 
 Install npm packages
@@ -32,7 +32,7 @@ npm install
 Run the surver
 
 ```
-npm run dev
+npm start
 ```
 
 View in Browser
@@ -49,8 +49,8 @@ go to http://localhost:3000
 - CSS
 - JavaScript
 - ReactJs
-- Redux
-- Chakra-UI
+- Context API
+- Bootstrap
 
 All the data got stored in and called from <b>Railway App</b>.
 
@@ -61,27 +61,26 @@ All the data got stored in and called from <b>Railway App</b>.
 - Sort and filter functionality.
 - Sign-in/Sign-up.
 - User authentication.
-- Add to cart and dynamic checkout page.
-- Payment Integration
-- Order Confirmation
+- Add to cart.
+- Search Functionality.
   
   ## Some Snapshots
 <p>Landing page</p>
-<img src="https://miro.medium.com/max/1100/1*23vUO-ZcFSleks9luh9WEQ.webp"/>
+<img src="https://miro.medium.com/max/1100/1*m42RjYFG1anzzP2g2jY0PQ.webp"/>
 
-<p>Product page</p>
-<img src="https://miro.medium.com/max/1100/1*RzwwRXnqmiz7s_N8Jd1VtA.webp"/>
+<p>Search functionality</p>
+<img src="![image](https://user-images.githubusercontent.com/96098283/212618312-52162bb8-aa3e-4a32-a694-01acce0d15ae.png)"/>
 
 <p>The cart page</p>
-<img src="https://miro.medium.com/max/1100/1*v49qhoaC0hkZd_U9SlLorg.webp"/>
+<img src="https://miro.medium.com/max/1100/1*77g6ZdS6hXfoGqAm4pbLAw.webp"/>
   
-<p>Check out page</p>
-<img src="https://miro.medium.com/max/1100/1*yRdnP1zmi-n0v8NJGfHxBA.webp"/>
+<p>Log In page</p>
+<img src="https://miro.medium.com/max/640/1*RoiU58wQs8QAW_x0pTfgGw.webp"/>
 
-<pPpayment details page</p>
-<img src="https://miro.medium.com/max/1100/1*8fb1ycwq-TYuuPbF3WWc8g.webp"/>
+<pSign Up page</p>
+<img src="https://miro.medium.com/max/640/1*Qsypy5nl3JBvuXGccasXRQ.webp"/>
   
-## Please do check out our E-Shoppers!
+## Please do check out our E-Mart-Store!
 
  <h2>Contact</h2>
 
