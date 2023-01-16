@@ -75,10 +75,10 @@ All the data got stored in and called from <b>Railway App</b>.
 <img src="https://miro.medium.com/max/1100/1*77g6ZdS6hXfoGqAm4pbLAw.webp"/>
   
 <p>Log In page</p>
-<img src="https://miro.medium.com/max/640/1*RoiU58wQs8QAW_x0pTfgGw.webp"/>
+<img src="https://miro.medium.com/max/1100/1*RoiU58wQs8QAW_x0pTfgGw.webp"/>
 
 <pSign Up page</p>
-<img src="https://miro.medium.com/max/640/1*Qsypy5nl3JBvuXGccasXRQ.webp"/>
+<img src="https://miro.medium.com/max/1100/1*Qsypy5nl3JBvuXGccasXRQ.webp"/>
   
 ## Please do check out our E-Mart-Store!
 
